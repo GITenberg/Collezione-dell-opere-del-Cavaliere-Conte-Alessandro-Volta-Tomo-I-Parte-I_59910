@@ -1,11 +1,16 @@
 _repo: Collezione-dell-opere-del-Cavaliere-Conte-Alessandro-Volta-Tomo-I-Parte-I_59910
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59910-h/images/cover.jpg
 creator:
   author:
     agent_name: Volta, Alessandro
     gutenberg_agent_id: '50688'
     url: http://www.gutenberg.org/2009/agents/50688
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59910#Collezione-dell-opere-del-Cavaliere-Conte-Alessandro-Volta-Tomo-I-Parte-I
 gutenberg_issued: '2019-07-13'
 gutenberg_type: Text
 identifiers:
